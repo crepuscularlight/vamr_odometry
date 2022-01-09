@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b533239e-f8e2-4660-b91e-9e949adc9d23" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../klt_pnp/.idea/klt_pnp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../klt_pnp/code/Dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../klt_pnp/code/Dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../klt_pnp/code/Initialization.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../klt_pnp/code/Initialization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../klt_pnp/code/KLT_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../klt_pnp/code/KLT_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../klt_pnp/code/Update.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../klt_pnp/code/Update.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/Batch_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../code/Batch_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/Batch_update.py" beforeDir="false" afterPath="$PROJECT_DIR$/../code/Batch_update.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/Candidate_update.py" beforeDir="false" afterPath="$PROJECT_DIR$/../code/Candidate_update.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/Dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/../code/Dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/Image/Image.py" beforeDir="false" afterPath="$PROJECT_DIR$/../code/Image/Image.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/Initialization.py" beforeDir="false" afterPath="$PROJECT_DIR$/../code/Initialization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/Update.py" beforeDir="false" afterPath="$PROJECT_DIR$/../code/Update.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/test_kitti.py" beforeDir="false" afterPath="$PROJECT_DIR$/../code/test_kitti.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="23Snky39nhS8LHAZXIUSv1Q4B2s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b533239e-f8e2-4660-b91e-9e949adc9d23" name="Changes" comment="" />
+      <created>1641736502432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641736502432</updated>
+    </task>
+    <servers />
+  </component>
+</project>
