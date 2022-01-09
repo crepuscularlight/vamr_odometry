@@ -14,8 +14,7 @@
 
 # Result
 
-[Video]: https://youtu.be/HGEfXTOh0lo
-
+ https://youtu.be/HGEfXTOh0lo 
 
 
 # Testing machine 
