@@ -12,5 +12,11 @@
 
 
 
+# Result
+
+[Video]: https://youtu.be/HGEfXTOh0lo
+
+
+
 # Testing machine 
 We tested on a machine with CPU: 4*2.4 GHz, RAM: 16 GB, maximum number of used threads: 1.
